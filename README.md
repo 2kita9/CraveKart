@@ -1,6 +1,6 @@
 # Food Delivery Website
 
-Welcome to the Food Delivery Website repository created by G.Vignesh! 🍽️
+Welcome to the Food Delivery Website CraveKart repository created by S.Likhitha🍽️
 
 ## Description
 
@@ -24,7 +24,5 @@ This project is a dynamic and user-friendly food delivery website developed usin
 - JavaScript
 
 ## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sweety-Vigneshg/food-delivery-website.git
+ 
+  
